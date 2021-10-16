@@ -10,6 +10,14 @@ h2 {
 header h2 {
   color: #CEC8FF; }
 
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
+
+#reserveForm .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
 .site-footer {
   background-image: linear-gradient(#CEC8FF, white);
   padding: 20px 0; }

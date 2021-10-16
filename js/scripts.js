@@ -12,11 +12,11 @@ $(function() {
         }
     });
 
-    $("#reserveButton").on('click', function(e){
+    $("#reserveButton").on('click', () => {
         $('#reserveForm').modal('show')
     })
 
-    $("#loginButton").on('click', function(e){
+    $("#loginButton").on('click', () => {
         $('#loginModal').modal('show')
     })
 
